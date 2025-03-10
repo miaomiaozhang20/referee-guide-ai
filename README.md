@@ -1,7 +1,5 @@
 # Code for "Conversations at Scale: Robust AI-led Interviews with a Simple Open-Source Platform"
 
-# Option 2: Full platform
-
 To install Python and set up the full interview platform locally (takes around 1h from scratch), see the following steps.
 
 The interview platform is built using the library `streamlit` and the APIs of OpenAI and Anthropic.
